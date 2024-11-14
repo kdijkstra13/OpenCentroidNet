@@ -1,0 +1,29 @@
+Aerial Potato Dataset (c) by K. Dijkstra
+
+Aerial Potato Dataset is licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <https://creativecommons.org/licenses/by-nc-sa/4.0/>.
+
+If this datasets benefits your research please cite:
+
+@inproceedings{dijkstra2018centroidnet,
+  title={CentroidNet: A deep neural network for joint object localization and counting},
+  author={Dijkstra, Klaas and van de Loosdrecht, Jaap and Schomaker, L.R.B. and Wiering, Marco A.},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={585--601},
+  year={2018},
+  organization={Springer}
+}
+
+or
+
+@article{dijkstra2020centroidnetv2,
+  title={CentroidNetV2: A Hybrid Deep Neural Network for Small-Object Segmentation and Counting.},
+  author={Dijkstra, Klaas and van de Loosdrecht, Jaap and Waatze A., Atsma and Schomaker, L.R.B. and Wiering, Marco A.},
+  booktitle={Neurocomputing},
+  year={2020},
+  organization={Elsevier}
+  DOI={https://doi.org/10.1016/j.neucom.2020.10.075 } 
+}
